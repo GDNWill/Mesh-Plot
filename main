@@ -1,1 +1,3 @@
 
+npm create skeleton-app@latest my-skeleton-app
+npm run dev -- --open
